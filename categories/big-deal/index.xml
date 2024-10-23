@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Deal on Vector Database Group @ NTU</title>
+    <link>//localhost:1313/categories/big-deal/</link>
+    <description>Recent content in Big Deal on Vector Database Group @ NTU</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/big-deal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We‘ve made a big deal with A*Star!</title>
+      <link>//localhost:1313/impacts/irange/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/impacts/irange/</guid>
+      <description>&lt;p&gt;Congratulations to Yuexuan Xu, Jianyang Gao, and Yutong Gou for publishing the paper “&lt;a href=&#34;https://arxiv.org/abs/2409.02571&#34;&gt;iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search&lt;/a&gt;” at SIGMOD 2025!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
